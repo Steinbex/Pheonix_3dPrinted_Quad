@@ -1,0 +1,38 @@
+Here is the quad frame that, along with a 3d printer, never dies. This durable frame is the result of about a dozen iterations that have led to this lightweight, clean and dirty plate design, that can be built with nearly all 3d printed components. I release it here under the apache license with the intent that we can all grow this together to try and make a constantly improving quad. 
+
+To BUILD:
+Print 
+4x bottom motor mounts
+4x top motor mounts
+1x Center Section-1
+1x Center Section-2 
+
+For FPV Add:
+1x Center Section-1
+1x Center Section-2
+
+Non-Printed Hardware:
+Main Frame:
+16x m3x0.5x18mm Socket Head Cap Screws McMaster 92095A472 for the motor mounts
+15x m3x0.5x14mm Socket Head Cap Screws McMaster 92095A168 for the center section
+15x m3x0.5 Hex Nut McMaster 90591A121
+4x 10mmx200mm Carbon Square Tube Hobbyking 0780000006-0
+
+
+Clean Plate:
+8x M3x0.5x6mm Socket head cap screws McMaster 92095A179 for attaching the plates to the standoffs
+4x M3 x 45mm Standoffs McMaster 95947A272 for Clean Plate
+4x Vibration Dampeners Hobbyking 450000030-0 for clean plate
+
+Recommended flying specs:
+3s 2200 maH Lipo battery
+1100 kv Motors
+10-15a speed controllers
+8x4.5 props
+
+
+TODO:
+More complete Mechanical BOM
+Electrical BOM
+Build manual
+
